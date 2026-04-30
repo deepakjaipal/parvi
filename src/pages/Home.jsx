@@ -11,7 +11,7 @@ export default function Home() {
       <div
         className="absolute inset-0 z-0 bg-cover bg-center"
         style={{
-          backgroundImage: `url('./src/assets/R(4)-1920w.webp')`, // Placeholder RV image
+          backgroundImage: `url('../assets/R(4)-1920w.webp')`, // Placeholder RV image
         }}
       >
         <div className="absolute inset-0 bg-black/50"></div> {/* Dark overlay */}

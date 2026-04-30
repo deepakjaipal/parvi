@@ -23,7 +23,7 @@ export default function Header() {
         {/* Left Section: Logo & Desktop Nav */}
         <div className="flex items-center gap-4 lg:gap-8">
           <Link to="/" className="flex items-center gap-1 shrink-0">
-            <img src="./src/assets/logo-new-white-156w.webp" alt="RV Help Logo" className="w-26 h-26 " />
+            <img src="../assets/logo-new-white-156w.webp" alt="RV Help Logo" className="w-26 h-26 " />
           </Link>
 
           {/* Desktop Links */}
